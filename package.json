@@ -1,0 +1,22 @@
+{
+  "name": "slackonator",
+  "version": "1.0.0",
+  "description": "Tracery based slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlennox/slackonator.git"
+  },
+  "author": "Mark Lennox <mark@webpusher.ie>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlennox/slackonator/issues"
+  },
+  "homepage": "https://github.com/mlennox/slackonator#readme",
+  "dependencies": {
+    "@slack/client": "3.6.0"
+  }
+}
